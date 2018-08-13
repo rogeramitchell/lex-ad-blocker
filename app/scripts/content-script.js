@@ -3,7 +3,8 @@
   let adverts = [
     'a.switch-to-lightning',
     'div#adoptionDlg-IBILTasksCampaign',
-    'div#tryLexDialog'
+    'div#tryLexDialog',
+    'div#adoptionDlg-IBILReportsCampaign'
   ];
  
   // allow for incrementing badge number

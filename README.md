@@ -21,3 +21,17 @@ Enjoyment, suggestions, and complaints are welcome as issues to this repo or via
 ## References
 
 Lightning bolt in circle logo comes from Wikipedia, where [this SVG](https://en.m.wikipedia.org/wiki/File:Lightning_Bolt_on_Circle.svg) was released to public domain.
+
+## Advertisements Blocked
+
+**Links**
+
+![assets/samples/link-ad.png](assets/samples/link-ad.png)
+
+**Modals**
+
+![assets/samples/modal-ad.png](assets/samples/modal-ad.png)
+
+**Overlays**
+
+![assets/samples/report-ad.png](assets/samples/report-ad.png)
